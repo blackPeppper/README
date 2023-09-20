@@ -2,6 +2,8 @@
 
 <a href="https://app.daily.dev/peppper"><img src="https://api.daily.dev/devcards/90e4d9970b594b93a0438ed75f06aa3d.png?r=a9e" width="400" alt="Abdelrahman Abdelfattah's Dev Card"/></a>
 
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64fdbb3d5ce9f4ca58ad84b2?variant=dark)](https://roadmap.sh)
+
 <!--
 **blackPeppper/blackPeppper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
